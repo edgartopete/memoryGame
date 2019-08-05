@@ -2,7 +2,7 @@
   "name": "memorygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/edgartopete/memorygame",
+  "homepage": "https://edgartopete.github.io/memorygame",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
