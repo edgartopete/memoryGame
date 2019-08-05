@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edgartopete/memorygame/static/css/main.cb882bbe.chunk.css",
+    "main.js": "/edgartopete/memorygame/static/js/main.6c47535c.chunk.js",
+    "main.js.map": "/edgartopete/memorygame/static/js/main.6c47535c.chunk.js.map",
+    "runtime~main.js": "/edgartopete/memorygame/static/js/runtime~main.0dd076d2.js",
+    "runtime~main.js.map": "/edgartopete/memorygame/static/js/runtime~main.0dd076d2.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/edgartopete/memorygame/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/edgartopete/memorygame/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/edgartopete/memorygame/index.html",
+    "precache-manifest.88dd2dd6b3b2dd3b236a676162435981.js": "/edgartopete/memorygame/precache-manifest.88dd2dd6b3b2dd3b236a676162435981.js",
+    "service-worker.js": "/edgartopete/memorygame/service-worker.js",
+    "static/css/main.cb882bbe.chunk.css.map": "/edgartopete/memorygame/static/css/main.cb882bbe.chunk.css.map"
+  }
+}
